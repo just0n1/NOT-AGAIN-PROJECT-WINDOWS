@@ -1,0 +1,23 @@
+{
+  "high_risk_artists": [
+    "bad gyal", "anitta", "megan thee stallion", "cardi b",
+    "nicki minaj", "ice spice", "tokischa", "doja cat",
+    "becky g", "karol g", "rosalia", "j balvin", "maluma",
+    "daddy yankee", "don omar", "pitbull", "feid",
+    "myke towers", "jhay cortez", "bad bunny", "sech",
+    "rauw alejandro", "ozuna", "anuel aa", "farruko",
+    "ivy queen", "chanel", "ptazeta", "lola indigo",
+    "paloma mami", "cazzu"
+  ],
+  "safe_keywords": [
+    "lyric", "lyrics", "letra", "letras",
+    "audio", "visualizer", "instrumental", "karaoke",
+    "official audio", "audio oficial"
+  ],
+  "danger_keywords": [
+    "video oficial", "official video", "official music video",
+    "videoclip", "video clip", "video musical",
+    "twerk", "twerking", "perreo", "hot video",
+    "clip oficial", "mv", "music video"
+  ]
+}

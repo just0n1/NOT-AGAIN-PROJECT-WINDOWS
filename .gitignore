@@ -1,0 +1,29 @@
+# Registros y telemetría personal
+*.log
+guardian.log
+capturas_bloqueo/
+user_blocklist.txt
+
+# Modelos neuronales pesados (>100MB no permitidos en GitHub estándar)
+models/*.onnx
+
+# Compilación y ejecutables
+build/
+build_temp/
+dist/
+dist_compiled/
+*.spec
+*.exe
+
+# Entornos virtuales y Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Archivos de depuración y temporales del IDE
+.vscode/
+.idea/
+*.tmp
